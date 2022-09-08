@@ -1,0 +1,84 @@
+* {
+    background-color: #93B9B8;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(102, 102, 102);
+}
+nav {
+    text-align: center;
+    
+}
+a {
+    background-color: #FDA649;
+    padding: 10px 30px;
+    color: white;
+    border-radius: 10px;
+}
+a:hover {
+    color: rgb(202, 202, 202);
+    background-color: #9b7043;
+}
+h1 {
+    position: relative;
+    
+    text-align: center;
+    color: white;
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:#E66354;
+    margin: auto;
+    width: 100%;
+    border-radius: 20px;
+    
+ 
+    
+}
+h2 {
+    background-color: #E66354;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+}
+h3 {
+    background-color: #d6b58f;
+}
+li {
+    
+    text-align: center;
+    margin: 1% auto;
+    display: inline-flex; 
+    justify-content: center;
+}
+strong {
+    background-color: #d9c7b2;
+}
+em {
+    background-color: #d9c7b2;
+}
+table {
+    border: thick double #FDA649;
+    background-color: #d9c7b2;
+    padding: auto;
+    margin: 50px 10px;
+    text-align: center;
+    margin: 100px auto;
+    border-radius: 10px;
+}
+#common {
+    border: thick double #FDA649;
+    background-color: #d9c7b2;
+    padding: auto;
+    margin: 50px 10px;
+    text-align: center;
+    margin: 100px auto;
+}
+
+th {
+    border: thick double #FDA649;
+    background-color: #d6b58f;
+}
+td {
+    
+    border: thick solid #FDA649;
+    background-color: #d9c7b2;
+    
+}
